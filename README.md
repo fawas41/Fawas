@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Internship**
 
-- 📝 My portfolio [link](link)
+- 📝 My portfolio [link]([link](https://fawas-pf.netlify.app/))
 
 - 💬 Ask me about **react, flutter**
 
