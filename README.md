@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Internship**
 
-- 📝 My portfolio [[a](https://fawas-pf.netlify.app/)](link)
+- 📝 My portfolio [[link](https://fawas-pf.netlify.app/)]
 
 - 💬 Ask me about **react, flutter**
 
 - 📫 How to reach me **sfawas41@gmail.com**
 
-- 📄 Know about my experiences [[link](https://fawas-pf.netlify.app/)](n)
+- 📄 Know about my experiences [[link](https://fawas-pf.netlify.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
